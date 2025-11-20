@@ -51,10 +51,6 @@ Strengths: *Problem-solving, creativity, embedded integration, advanced system d
 - Voice interaction + emergency alert  
 - AI-driven companion for elderly & visually impaired  
 
-### Smart Vision Assistant  
-- Real-time object detection (OpenCV)  
-- Distance tracking + voice assistance  
-
 ### BigFog Air Quality Monitor  
 - MQ135, MQ4, MQ7 smart gas detection  
 - Real-time AQI monitoring dashboard  
