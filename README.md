@@ -45,7 +45,7 @@ Strengths: *Problem-solving, creativity, embedded integration, advanced system d
 
 # **Highlight Projects**
 
-### Smart Companion Robot (Neon Vision)  
+### Smart Companion Robot 
 - Facial recognition following  
 - Obstacle detection & navigation  
 - Voice interaction + emergency alert  
