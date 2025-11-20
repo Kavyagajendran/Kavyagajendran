@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=KAVYA+GAJENDRAN;AI+%26+ML+Student;IoT+Developer+%7C+CV+Engineer;Deep+Learning+%7C+Hardware+Innovator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=KAVYA+GAJENDRAN;AI+%26+ML+Student;" />
 </h1>
 
 ---
