@@ -45,13 +45,13 @@ Strengths: *Problem-solving, creativity, embedded integration, advanced system d
 
 # **Highlight Projects**
 
-### Smart Companion Robot 
+### IoT - Vision based guiding and navigation robot 
 - Facial recognition following  
 - Obstacle detection & navigation  
 - Voice interaction + emergency alert  
 - AI-driven companion for elderly & visually impaired  
 
-### BigFog Air Quality Monitor  
+### BigFog - Smart respiratory health monitoring system
 - MQ135, MQ4, MQ7 smart gas detection  
 - Real-time AQI monitoring dashboard  
 
@@ -63,10 +63,12 @@ Strengths: *Problem-solving, creativity, embedded integration, advanced system d
 - Predictive diet planning for BP/diabetes/health profiles  
 
 ### Daily To-Do Planner  
-- Neon-themed responsive UI  
 - Light/Dark + animated toggle  
 - Calendar + day-history tracking  
 
+### IoT Based Face Recognition Attendance System 
+-Designed and implemented an IoT-enabled attendance system using facial recognition technology to
+automate attendance marking with real-time data storage and monitoring.
 
 
 # Connect With Me  
