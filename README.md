@@ -1,84 +1,129 @@
-<p align="center">
-  <img src="https://i.ibb.co/0jQ9ChP/neon-banner.gif" width="100%" alt="Neon Banner">
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=KAVYA+GAJENDRAN;AI+%26+ML+Student;" />
+![Header](./github-header-banner.png)
+
+<h1 style="color:#7B3FE4; font-size:60px; font-weight:900; text-shadow: 2px 2px 8px rgba(123,63,228,0.7);">
+Kavya Gajendran
 </h1>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B3FE4&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Embedded+AI+%7C+IoT+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Real-Time+Systems;Learning%2C+Building%2C+Innovating" alt="Typing SVG" />
 
-## About Me  
-I am an **AI & ML student** passionate about building **intelligent, futuristic systems** powered by  
-deep learning, IoT hardware, automation, and real-time data processing.  
-I specialize in **embedded AI**, **sensor-based decision systems**, and **smart automation**.
+</div>
 
-Focus areas: *Computer Vision, Neural Networks, IoT, Full Stack Development*  
-Strengths: *Problem-solving, creativity, embedded integration, advanced system design*
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=kavyagajendran&color=00D4FF&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/kavyagajendran?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/kavyagajendran?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
 
-# **Tech Stack**
+</div>
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FFFF)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00FFFF)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF00FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=39FF14)
+<div align="center">
 
-### AI & ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FF00FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=00FFFF)
-![Sklearn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn&logoColor=FF00FF)
+AI & Machine Learning student passionate about **intelligent systems, embedded AI, IoT hardware, and automation**.  
+Experienced in building **real-time vision-based solutions**, smart monitoring systems, and full stack applications.  
 
-### Hardware  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi&logoColor=FF0077)
-![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino&logoColor=39FF14)
-
-### Full Stack  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00FFFF)
-![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=39FF14)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=39FF14)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=FF00FF)
+</div>
 
 ---
 
-# **Highlight Projects**
+## 🛠 Technical Skills  
 
-### IoT - Vision based guiding and navigation robot 
-- Facial recognition following  
-- Obstacle detection & navigation  
-- Voice interaction + emergency alert  
-- AI-driven companion for elderly & visually impaired  
-
-### BigFog - Smart respiratory health monitoring system
-- MQ135, MQ4, MQ7 smart gas detection  
-- Real-time AQI monitoring dashboard  
-
-### Autonomous Fire-Fighting Robot  
-- Flame detection  
-- Automatic fire suppression movement  
-
-### Deep Learning Diet Recommendation  
-- Predictive diet planning for BP/diabetes/health profiles  
-
-### Daily To-Do Planner  
-- Light/Dark + animated toggle  
-- Calendar + day-history tracking  
-
-### IoT Based Face Recognition Attendance System 
--Designed and implemented an IoT-enabled attendance system using facial recognition technology to
-automate attendance marking with real-time data storage and monitoring.
-
-
-# Connect With Me  
+### Programming Languages  
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=39FF14"></a><br>
-  LINKEDIN LINK: https://www.linkedin.com/in/kavya-gajendran/ <br>
-  GMAIL ID: gkavya0624@gmail.com
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
---- 
-> *“I build intelligent systems that glow beyond the ordinary.”*
+### AI & Machine Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6B6B?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-5CDB95?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+</p>
 
+### IoT & Hardware  
+<p align="left">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sensors-000000?style=flat&logo=electronics&logoColor=white"/>
+</p>
+
+### Full Stack & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects  
+
+### AI & IoT Projects
+| Project | Description | Link |
+|------|------------|:---:|
+| Smart Companion Robot | Vision-based navigation, facial recognition, voice interaction, emergency alerts | [View Project](#) |
+| BigFog – Smart Respiratory Health Monitoring | Real-time gas & AQI monitoring using MQ sensors | [View Project](#) |
+| Automatic Fire Fighting Robot | Flame detection & autonomous fire suppression | [View Project](#) |
+
+### Web & Software Projects
+| Project | Tech Used | Link |
+|------|----------|:---:|
+| Daily To-Do Planner | HTML, CSS, JS, Bootstrap | [View Project](#) |
+| Face Recognition Attendance System | Python, OpenCV, IoT | [View Project](#) |
+| Diet Recommendation System | ML, Health Analytics | [View Project](#) |
+
+---
+
+## 🎓 Academic
+- **B.Tech – Artificial Intelligence & Machine Learning**
+
+---
+
+## 🏆 Achievements
+- 🥇 1st Prize – Project Expo (Nehru Institute of Technology, 2024)
+- 🥇 1st Prize – Project Expo (KIT, 2024)
+- 🥉 3rd Prize – KGISL Institute of Technology, 2025
+- 👩‍💻 Participant – TANCAM Women’s Hackathon (2024 & 2025)
+
+---
+
+## 📊 GitHub Analytics  
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kavyagajendran&theme=react-dark&hide_border=true&area=true" 
+  alt="Activity Graph" 
+/>
+
+---
+
+## 🐍 Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-light.svg"
+         alt="snake animation" />
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect  
+<p align="left">
+  <a href="https://github.com/kavyagajendran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kavya-gajendran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gkavya0624@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+> *“I build intelligent systems that connect AI with the real world.”*
