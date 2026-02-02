@@ -70,29 +70,29 @@ Experienced in building **real-time vision-based solutions**, smart monitoring s
 ### AI & IoT Projects
 | Project | Description | Link |
 |------|------------|:---:|
-| Smart Companion Robot | Vision-based navigation, facial recognition, voice interaction, emergency alerts | [View Project](#) |
-| BigFog – Smart Respiratory Health Monitoring | Real-time gas & AQI monitoring using MQ sensors | [View Project](#) |
-| Automatic Fire Fighting Robot | Flame detection & autonomous fire suppression | [View Project](#) |
+| IoT-Vision based guding and navigation robot | Vision-based navigation, facial recognition, voice interaction, emergency alerts | [View Project](https://github.com/Kavyagajendran/IoT---Vision-based-guding-and-navigation-robot) |
+| Automatic Fire Fighting Robot | Flame detection & autonomous fire suppression | [View Project](https://github.com/Kavyagajendran/Automatic-Fire-Fighting-Robot) |
 
 ### Web & Software Projects
 | Project | Tech Used | Link |
 |------|----------|:---:|
-| Daily To-Do Planner | HTML, CSS, JS, Bootstrap | [View Project](#) |
-| Face Recognition Attendance System | Python, OpenCV, IoT | [View Project](#) |
-| Diet Recommendation System | ML, Health Analytics | [View Project](#) |
+| Daily To-Do Planner | HTML, CSS, JS, Bootstrap | [View Project](https://github.com/Kavyagajendran/Daily-To---Do-list) |
+| Face Recognition Attendance System | Python, OpenCV, IoT | [View Project](https://github.com/Kavyagajendran/IoT-based-face-recognition-attandance-system) |
+| Smart developer tool for API integration | React, TypeScript, LLM Integration, Playwright for scraping, Pydantic for data validation | [View Project](https://github.com/Kavyagajendran/Smart-Developer-Tool-for-API-Integration) |
+| Smart developer tool for API integration | React, Node.js, Express, Python (Pandas, Requests, BeautifulSoup) for reliable data scraping and API interaction. | [View Project]([https://github.com/Kavyagajendran/Smart-Developer-Tool-for-API-Integration](https://github.com/Kavyagajendran/Competitive-Programming-Tracker)) |
 
 ---
 
 ## 🎓 Academic
-- **B.Tech – Artificial Intelligence & Machine Learning**
+- **B.E – Computer Science and Engineering (Artificial Intelligence & Machine Learning)**
 
 ---
 
 ## 🏆 Achievements
-- 🥇 1st Prize – Project Expo (Nehru Institute of Technology, 2024)
-- 🥇 1st Prize – Project Expo (KIT, 2024)
-- 🥉 3rd Prize – KGISL Institute of Technology, 2025
-- 👩‍💻 Participant – TANCAM Women’s Hackathon (2024 & 2025)
+- 1st Prize – Project Expo (Nehru Institute of Technology, 2024)
+- 1st Prize – Project Expo (KIT, 2024)
+- 3rd Prize – KGISL Institute of Technology, 2025
+- Participant – TANCAM Women’s Hackathon (2024 & 2025)
 
 ---
 
