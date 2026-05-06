@@ -79,7 +79,6 @@ Experienced in building **real-time vision-based solutions**, smart monitoring s
 | Daily To-Do Planner | HTML, CSS, JS, Bootstrap | [View Project](https://github.com/Kavyagajendran/Daily-To---Do-list) |
 | Face Recognition Attendance System | Python, OpenCV, IoT | [View Project](https://github.com/Kavyagajendran/IoT-based-face-recognition-attandance-system) |
 | Smart developer tool for API integration | React, TypeScript, LLM Integration, Playwright for scraping, Pydantic for data validation | [View Project](https://github.com/Kavyagajendran/Smart-Developer-Tool-for-API-Integration) |
-| Smart developer tool for API integration | React, Node.js, Express, Python (Pandas, Requests, BeautifulSoup) for reliable data scraping and API interaction. | [View Project]([https://github.com/Kavyagajendran/Smart-Developer-Tool-for-API-Integration](https://github.com/Kavyagajendran/Competitive-Programming-Tracker)) |
 
 ---
 
